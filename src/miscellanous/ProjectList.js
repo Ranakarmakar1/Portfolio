@@ -1,6 +1,5 @@
 import Proj1 from "../assets/NutriMeal.png";
-import Proj2 from "../assets/cfv.png";
-import Proj3 from "../assets/synapse.png";
+
 
 const projects = [
   {
